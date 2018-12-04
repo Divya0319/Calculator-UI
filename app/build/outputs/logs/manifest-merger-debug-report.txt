@@ -1,6 +1,38 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\fc9454c5c432c74d98103e821baa306a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\197d9fbd1707541fb1c05e73e7e8ab13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2e2a8c1c752a2fb7dc650a43af331388\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4b7cc0fd8c31dc4d080424e3c6192cde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\145f7b8485e9596475efe56cebb74314\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2e6fd1ba7b91537c51d942d339b68781\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\914e2655c0a7fa4f058b44c1743c27a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\cc693bfc9a3dd312e6a235436b5f00ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3a54031365881dda19f4ca2c97729df0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f65d74a8fd352107f3deb0952d2c59e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e0ce059272070923bdca16c997ada7b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0e03821ac3acc2430ca8667c83462c03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b8bfffc5c4aae83bbfffebf1dfbcf73c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a6d329a6062cf63e987e07a3acdd89f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0cf03ed6b8c26edc9045806bbcf3826f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ce63528a2ec2e6a5e1b5e432bc0b8698\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d5f311b099b957686054368a8fd16534\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c3bff42767625dca2b386afdc3f28b62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\daedf1d7bfe4d8f3ef43b88ff122e8e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\128a80bfde954dc0cf824b3320e2e96a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3c6daa665bf5fbf51d194118ac4a1fa2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\283326319da4f77624279a7e19504c28\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9a5125458e13aa39dcd8ceb90864219d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\40610b75dd8921d21faf0f1d427b841a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5eb62c8d10fcb6592cfa30bd62769fe6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b1bc969084ae18ede8a8649edf8fde06\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
 		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:3:5-29
 		INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
@@ -9,47 +41,105 @@ ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:2:1-2
 		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:5:5-30
 		INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
 		INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
 		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:4:5-28
 		INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
 		INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:7:5-19:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0cf03ed6b8c26edc9045806bbcf3826f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0cf03ed6b8c26edc9045806bbcf3826f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ce63528a2ec2e6a5e1b5e432bc0b8698\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ce63528a2ec2e6a5e1b5e432bc0b8698\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0cf03ed6b8c26edc9045806bbcf3826f\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:11:9-59
+activity#com.divya.calc.MainActivity
+ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
-ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:22.2.0] F:\AndroidStudioWorkSpace\Calc\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.0] F:\AndroidStudioWorkSpace\Calc\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
+INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\fc9454c5c432c74d98103e821baa306a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\fc9454c5c432c74d98103e821baa306a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\197d9fbd1707541fb1c05e73e7e8ab13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\197d9fbd1707541fb1c05e73e7e8ab13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2e2a8c1c752a2fb7dc650a43af331388\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2e2a8c1c752a2fb7dc650a43af331388\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4b7cc0fd8c31dc4d080424e3c6192cde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4b7cc0fd8c31dc4d080424e3c6192cde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\145f7b8485e9596475efe56cebb74314\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\145f7b8485e9596475efe56cebb74314\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2e6fd1ba7b91537c51d942d339b68781\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2e6fd1ba7b91537c51d942d339b68781\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\914e2655c0a7fa4f058b44c1743c27a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\914e2655c0a7fa4f058b44c1743c27a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\cc693bfc9a3dd312e6a235436b5f00ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\cc693bfc9a3dd312e6a235436b5f00ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3a54031365881dda19f4ca2c97729df0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3a54031365881dda19f4ca2c97729df0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f65d74a8fd352107f3deb0952d2c59e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f65d74a8fd352107f3deb0952d2c59e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e0ce059272070923bdca16c997ada7b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e0ce059272070923bdca16c997ada7b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0e03821ac3acc2430ca8667c83462c03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0e03821ac3acc2430ca8667c83462c03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b8bfffc5c4aae83bbfffebf1dfbcf73c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b8bfffc5c4aae83bbfffebf1dfbcf73c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a6d329a6062cf63e987e07a3acdd89f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a6d329a6062cf63e987e07a3acdd89f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0cf03ed6b8c26edc9045806bbcf3826f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0cf03ed6b8c26edc9045806bbcf3826f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ce63528a2ec2e6a5e1b5e432bc0b8698\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ce63528a2ec2e6a5e1b5e432bc0b8698\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d5f311b099b957686054368a8fd16534\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d5f311b099b957686054368a8fd16534\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c3bff42767625dca2b386afdc3f28b62\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c3bff42767625dca2b386afdc3f28b62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\daedf1d7bfe4d8f3ef43b88ff122e8e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\daedf1d7bfe4d8f3ef43b88ff122e8e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\128a80bfde954dc0cf824b3320e2e96a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\128a80bfde954dc0cf824b3320e2e96a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3c6daa665bf5fbf51d194118ac4a1fa2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3c6daa665bf5fbf51d194118ac4a1fa2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\283326319da4f77624279a7e19504c28\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\283326319da4f77624279a7e19504c28\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9a5125458e13aa39dcd8ceb90864219d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9a5125458e13aa39dcd8ceb90864219d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\40610b75dd8921d21faf0f1d427b841a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\40610b75dd8921d21faf0f1d427b841a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5eb62c8d10fcb6592cfa30bd62769fe6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5eb62c8d10fcb6592cfa30bd62769fe6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b1bc969084ae18ede8a8649edf8fde06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\divyg\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b1bc969084ae18ede8a8649edf8fde06\AndroidManifest.xml:20:5-44
+INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
+INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
 		INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:8:9-35
 		INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
 		INJECTED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml
-application
-ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:11:5-23:19
-MERGED from [com.android.support:appcompat-v7:22.2.0] F:\AndroidStudioWorkSpace\Calc\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.0] F:\AndroidStudioWorkSpace\Calc\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
-	android:label
-		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:14:9-41
-	android:allowBackup
-		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:12:9-35
-	android:icon
-		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:13:9-45
-	android:theme
-		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:15:9-59
-activity#com.divya.calc.MainActivity
-ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:16:9-22:20
-	android:name
-		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:16:19-47
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:17:13-21:29
-action#android.intent.action.MAIN
-ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:18:17-69
-	android:name
-		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:18:25-66
-category#android.intent.category.LAUNCHER
-ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:20:17-77
-	android:name
-		ADDED from F:\AndroidStudioWorkSpace\Calc\app\src\main\AndroidManifest.xml:20:27-74
